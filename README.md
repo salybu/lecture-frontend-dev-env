@@ -3,6 +3,7 @@
 - ✍ [npm](https://github.com/salybu/webpack.2/blob/1-webpack/1-entry/NPM.md)
 - ✍ [웹팩 엔트리/아웃풋](https://github.com/salybu/webpack.2/blob/1-webpack/1-entry/entryoutput.md)
 - ✍ [웹팩 로더](https://github.com/salybu/webpack.2/blob/1-webpack/2-loader/loader.md)
+- ✍ [웹팩 플러그인](https://github.com/salybu/webpack.2/blob/1-webpack/3-plugin/plugin.md)
 
 &nbsp;
 
@@ -13,7 +14,7 @@
 
 - ✅ `1-webpack/1-entry`: 웹팩 엔트리/아웃풋 실습
 - ✅ `1-webpack/2-loader`: 웹팩 로더 실습
-- `1-webpack/3-plugin`: 웹팩 플러그인 실습
+- ✅ `1-webpack/3-plugin`: 웹팩 플러그인 실습
 - `2-babel/1-babel`: 바벨 실습
 - `2-babel/2-sass`: 사스 실습
 - `3-lint/1-eslint`: 린트 실습
